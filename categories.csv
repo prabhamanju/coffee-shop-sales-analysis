@@ -1,0 +1,10 @@
+category_id,product_category,description,is_beverage
+1,Coffee,Hot and cold coffee beverages,Yes
+2,Tea,Hot and cold tea beverages,Yes
+3,Drinking Chocolate,Hot chocolate beverages,Yes
+4,Bakery,Fresh baked goods and pastries,No
+5,Flavours,Syrups and flavor shots,Yes
+6,Loose Tea,Packaged loose leaf teas,No
+7,Coffee beans,Whole and ground coffee beans,No
+8,Packaged Chocolate,Packaged chocolate products,No
+9,Branded,Branded merchandise and clothing,No
