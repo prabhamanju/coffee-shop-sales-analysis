@@ -6,10 +6,10 @@ Analyze store and product category performance across 3 NYC locations to identif
 Transaction-level sales data from 2023 spread across 4 relational tables — transactions (~149K records), stores, products, and categories — combined using Excel formulas for analysis.
 
 ## Key Visuals
--** Store Performance Summary** - total revenue, average revenue, rank and % vs average per store
--** Revenue By Store and Category** - cross-tab breakdown of how each store performs across product categories
--** Category Performanec Summary** - revenue, % of total and ranking for each product category
--** Revenue By Beverage Type* - beverage vs non-beverage revenue split per store
+** Store Performance Summary** - total revenue, average revenue, rank and % vs average per store
+** Revenue By Store and Category** - cross-tab breakdown of how each store performs across product categories
+** Category Performanec Summary** - revenue, % of total and ranking for each product category
+** Revenue By Beverage Type* - beverage vs non-beverage revenue split per store
 
 ## Insights
 - Hell's kitchen generated the heighest revenue among all 3 stores
